@@ -19,11 +19,11 @@ This dashboard aims to:
 
 ## 🛠️ Tools & Technologies Used
   Tool	  		       Purpose
-Power BI		Dashboard Development & Visualization
-Power Query		Data Cleaning & Transformation
-DAX			Calculated Measures & KPIs
-Excel / CSV		Source Dataset
-GitHub			Project Hosting & Version Control
+-Power BI		    Dashboard Development & Visualization
+-Power Query		Data Cleaning & Transformation
+-DAX			      Calculated Measures & KPIs
+-Excel / CSV		Source Dataset
+-GitHub			    Project Hosting & Version Control
 
 ## 📊 Dashboard Features
 1. Tournament Overview
