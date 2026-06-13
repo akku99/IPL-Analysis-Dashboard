@@ -18,7 +18,7 @@ This dashboard aims to:
 -Provide an interactive platform for IPL data exploration.
 
 ## 🛠️ Tools & Technologies Used
-  Tool	  		       Purpose
+🔹Tools and their Purpose
 1. Power BI		    -Dashboard Development & Visualization
 2. Power Query		-Data Cleaning & Transformation
 3. DAX			      -Calculated Measures & KPIs
